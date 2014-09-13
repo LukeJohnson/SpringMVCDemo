@@ -1,5 +1,6 @@
 package hello.bean;
 
+// POJO used to display greeting
 public class Greeting {
 
     private final long id;
