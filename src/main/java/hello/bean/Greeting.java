@@ -1,6 +1,6 @@
 package hello.bean;
 
-// POJO used to display greeting
+// POJO used to test service controller
 public class Greeting {
 
     private final long id;
